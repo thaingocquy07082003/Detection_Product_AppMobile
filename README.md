@@ -1,4 +1,4 @@
-# Build a App moblie to identify and create invoices for products 
+# Build a SmartShop App moblie to identify and create invoices for products 
 
 ## Team Dev 
   - Thái Ngọc Quý (Leader) | Admin | 0342280638
